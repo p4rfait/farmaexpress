@@ -6,10 +6,10 @@ import { usePathname } from "next/navigation";
 import { ShoppingBag } from 'lucide-react';
 
 const links = [
-  { name: 'Home', href: '/' },
-  { name: 'test1', href: '/test1' },
-  { name: 'test2', href: '/test2' },
-  { name: 'test3', href: '/test3' },
+  { name: 'Inicio', href: '/' },
+  { name: 'Medicamentos', href: '/Medicamentos' },
+  { name: 'Conveniencia', href: '/Conveniencia' },
+  { name: 'Ofertas', href: '/Ofertas' },
 ]
 
 
